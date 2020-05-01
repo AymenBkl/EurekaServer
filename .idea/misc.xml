@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/ms-registry/pom.xml" />
         <option value="$PROJECT_DIR$/ms-formation/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-web-client/pom.xml" />
       </list>
     </option>
   </component>

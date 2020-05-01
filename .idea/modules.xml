@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ms-formation/ms-formation.iml" filepath="$PROJECT_DIR$/ms-formation/ms-formation.iml" />
       <module fileurl="file://$PROJECT_DIR$/ms-registry/ms-registry.iml" filepath="$PROJECT_DIR$/ms-registry/ms-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-web-client/ms-web-client.iml" filepath="$PROJECT_DIR$/ms-web-client/ms-web-client.iml" />
     </modules>
   </component>
 </project>
